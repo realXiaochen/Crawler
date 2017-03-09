@@ -4,7 +4,7 @@
     Rank all the pages. 
 
 ## spider.py
-    Crawling using urllib, Beautifulsoup
+    Crawling using urllib, Beautifulsoup,sqlite
     
 ## pagerank.py
     Ranking using pagerank, python dictionary
