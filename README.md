@@ -1,10 +1,15 @@
-# Data extraction: crawling and ranking webpage
-    Crawl a domain.
-    Extract all the page within the domain to a database. 
-    Rank all the pages. 
+# Web Crawler 
+A small program that
+-Crawl a domain.
+-Extract all the page within the domain to a database. 
+-Rank all the pages.
 
-## spider.py
-    Crawling using urllib, Beautifulsoup, sqlite3
-    
-## pagerank.py
-    Ranking using pagerank, python dictionary
+Demonstration of basic data extraction skill
+   
+## Tool Used
+- python (urllib, Beautifulsoup)
+- sqlite
+
+## Algorithm
+- crawling: deep first search
+- ranking: pagerank
