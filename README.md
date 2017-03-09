@@ -10,4 +10,4 @@ A small program that
 
 ## Algorithm used
 - crawling: deep first search
-- ranking: pagerank
+- ranking: PageRank
