@@ -6,7 +6,7 @@ A small program that
 
 Demonstration of basic data extraction skill
    
-## Tool Used
+## Tool used
 - python (urllib, Beautifulsoup)
 - sqlite
 
