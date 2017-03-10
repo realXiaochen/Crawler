@@ -1,7 +1,7 @@
 # Web Crawler 
 A small program that
 - crawls a domain.
-- extracts all the page within the domain to a database. 
+- extracts all the pages within the domain to a database. 
 - ranks all the pages.
    
 ## Tool used
