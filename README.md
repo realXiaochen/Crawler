@@ -9,5 +9,5 @@ A small program that
 - sqlite
 
 ## Algorithm used
-- crawling: deep first search
-- ranking: PageRank
+- crawling (spider.py): deep first search
+- ranking(pagerank.py): PageRank
